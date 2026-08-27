@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="libs">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/../../../SpringMVCMaterial/Template/Template/libs" />
+      <root url="file://$USER_HOME$/Downloads/hibernate-search-5.8.0.Final-dist/hibernate-search-5.8.0.Final/dist/lib/required" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+    <jarDirectory url="file://$USER_HOME$/Downloads/hibernate-search-5.8.0.Final-dist/hibernate-search-5.8.0.Final/dist/lib/required" recursive="false" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../../SpringMVCMaterial/Template/Template/libs" recursive="false" />
+  </library>
+</component>
